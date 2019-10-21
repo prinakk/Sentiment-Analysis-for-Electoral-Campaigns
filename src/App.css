@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.layout-page .header-block {
+  height: 100vh;
+  min-height: 800px;
+  background: #fafafa;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* background: url('https://cdna.artstation.com/p/assets/images/images/011/428/098/large/graham-tattersall-flat-background-mountains.jpg?1529525121') */
+/* no-repeat center center fixed; */
