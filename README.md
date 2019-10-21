@@ -21,14 +21,21 @@ Enter pip install –upgrade pip
 
 Then continue to install the following packages:
 
-**pip install JSON
-pip install flask
-pip install wordcloud
-pip install tensorflow
-pip install matplotlib
-pip install sklearn
-pip install --upgrade scikit-learn
-pip install scipy**
+**pip install JSON**
+
+**pip install flask**
+
+**pip install wordcloud**
+
+**pip install tensorflow**
+
+**pip install matplotlib**
+
+**pip install sklearn**
+
+**pip install --upgrade scikit-learn**
+
+**pip install scipy**
 
 Once the above commands are completed run the below command:
 
@@ -41,7 +48,9 @@ Project Run:
 Once the necessary packages are installed, open a new terminal or command line and navigate to the project folder.
 Proceed to enter the following commands in the terminal or command line:
 
-**npm install -g --save react-scripts
-npm install
-npm run start**
+**npm install -g --save react-scripts**
+
+**npm install**
+
+**npm run start**
 
