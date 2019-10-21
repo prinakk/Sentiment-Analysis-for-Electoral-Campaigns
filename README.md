@@ -1,0 +1,1 @@
+# Sentiment-Analysis-for-Electoral-Campaigns
